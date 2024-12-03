@@ -5,7 +5,7 @@
 
 # 👋 Hello, I'm **Himash Ruwanga**
 
-A passionate **Software Engineering Graduate** and a third-year undergraduate in **Information Technology** from the **University of Moratuwa** with a strong focus on creating innovative solutions while exploring cutting-edge technologies and delivering impactful projects.
+A passionate **Software Engineering Under Graduate** and a third-year undergraduate in **Information Technology** from the **University of Moratuwa** with a strong focus on creating innovative solutions while exploring cutting-edge technologies and delivering impactful projects.
 
 ---
 
