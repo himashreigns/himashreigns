@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/himashruwanga/himashruwanga/main/header.svg" alt="header" />
+  <img src="https://raw.githubusercontent.com/himashreigns/himashreigns/main/header.svg" alt="header" />
 </div>
+
 
 # 👋 Hello, I'm **Himash Ruwanga**
 
-A passionate **Software Engineering Graduate** and a third-year undergraduate in **Information Technology** from the **University of Moratuwa**, specializing in **Mobile Application Development**. With a strong focus on creating innovative solutions, I thrive on exploring cutting-edge technologies and delivering impactful projects.
+A passionate **Software Engineering Graduate** and a third-year undergraduate in **Information Technology** from the **University of Moratuwa** with a strong focus on creating innovative solutions while exploring cutting-edge technologies and delivering impactful projects.
 
 ---
 
@@ -48,10 +49,11 @@ A passionate **Software Engineering Graduate** and a third-year undergraduate in
 
 ## 🌐 **Connect with Me**
 <div align="center">
-  <a href="www.linkedin.com/in/himash-ruwanga"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/himashruwanga"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/himashruwanga"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:himashruwanga@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/himash-ruwanga/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Himash01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/himashreigns"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:himashreigns@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
+
 
 ---
