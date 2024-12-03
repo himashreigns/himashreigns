@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/himashreigns/himashreigns/main/header.svg" alt="header" />
+  <img src="https://raw.githubusercontent.com/himashreigns/himashreigns/main/header.png" alt="header" />
 </div>
 
 
